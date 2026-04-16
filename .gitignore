@@ -1,0 +1,22 @@
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
